@@ -2,6 +2,7 @@
 Layout de turismos usando o posicionamento dos elementos com Flexbox em CSS. Clique [aqui]() para acessar o projeto.
 
 ## Projeto final
+![screencapture-file-C-Users-Maki-Downloads-flex-turismos-index-html-2021-08-24-11_24_58](https://user-images.githubusercontent.com/72028645/130634584-7b175b36-5f93-4ab8-8ea5-dede9f56f4d0.png)
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
